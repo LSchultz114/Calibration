@@ -1,0 +1,40 @@
+{
+    "Filename1": {
+        "subsection1(if applicable)": [
+            {
+                "name": "X1",
+                "type": "float",
+                "min": "0",
+                "max": "10",
+                "size": 1
+            },
+            {
+                "name": "X2",
+                "type": "float",
+                "min": "0",
+                "max": "10",
+                "size": 1
+            }
+        ],
+        "subsection2": [
+            {
+                "name": "X10",
+                "type": "float",
+                "min": "0",
+                "max": "10",
+                "size": 1
+            }
+        ]
+    },
+    "Filename2": {
+        "subsection1": [
+            {
+                "name": "Y1",
+                "type": "float",
+                "min": "0",
+                "max": "10",
+                "size": 1
+            }
+        ]
+    }
+}
